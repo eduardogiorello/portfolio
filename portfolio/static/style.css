@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+.bg-black {
+  background-color: black;
+}
+.silueta {
+  width: 500px;
+}
+.card-project:hover {
+  border: 1px solid white;
+  cursor: pointer;
+}
+.img-blog {
+  width: 500px;
+  height: 200px;
+}
+.img-detail {
+  width: 800px;
+  height: 300px;
+}
